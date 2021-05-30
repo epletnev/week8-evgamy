@@ -9,9 +9,7 @@ Feed our hungry cats with food of your choice before they die from hunger.
 
 Our goal was to feed the cats when you click on them and show the hunger bar progress, but did not get to that stage.
 
-Ongoing issue:
 
-Our current API does not work on Netlify, but worked on our localhost.
 
 
 
